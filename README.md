@@ -60,4 +60,5 @@ Just open the HTML file in a browser. No server or install required.
 - No printable/PDF export of the ticket.
 
 If you want, I can prioritize this list and tackle the most impactful ones next — cancellation and a shared/real seat-inventory model would probably matter most for making this feel like a genuine booking system rather than a demo.
+
 Note- This project is generated using claude as the orignal project i had build during my school days(12th) was lost due to my hard drive crash
